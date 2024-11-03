@@ -4,7 +4,7 @@ layout: default
 
 <!-- Text can be **bold**, _italic_, or ~~strikethrough~~. -->
 
-[Games104](./_posts/2024-11-03-Games104笔记.md).
+[Games104](./_posts/2024-11-03-Games104-Notes.md).
 
 <!-- There should be whitespace between paragraphs.
 
