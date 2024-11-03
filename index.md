@@ -2,11 +2,11 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+<!-- Text can be **bold**, _italic_, or ~~strikethrough~~. -->
 
-[Games104 Lesson 1](./_posts/2024-11-03-Games104-Lesson1.md).
+[Games104](./_posts/2024-11-03-Games104笔记.md).
 
-There should be whitespace between paragraphs.
+<!-- There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
@@ -119,4 +119,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 
 ```
 The final element.
-```
+``` -->
