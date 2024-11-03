@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Games104 Lesson 1](./_posts/Games104/Lesson1.html).
+[Games104 Lesson 1](./_posts/2024-11-03-Games104-Lesson1.md).
 
 There should be whitespace between paragraphs.
 
