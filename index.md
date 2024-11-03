@@ -4,7 +4,7 @@ layout: default
 
 <!-- Text can be **bold**, _italic_, or ~~strikethrough~~. -->
 
-[Games104]({site.baseurl}/2024/11/03/Games104-Notes.html).
+[Games104 Notes](https://fenglimg.github.io/skills-github-pages/2024/11/03/Games104-Notes.html)
 
 <!-- There should be whitespace between paragraphs.
 
