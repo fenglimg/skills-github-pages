@@ -6,8 +6,6 @@ layout: default
 
 [Games104 Notes](https://fenglimg.github.io/skills-github-pages/2024/11/03/Games104-Notes.html)
 
-![本地示例图片](https://fenglimg.github.io/skills-github-pages/images/1.png)
-
 <!-- There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
